@@ -65,16 +65,7 @@ Follow these steps to install and run the project locally:
 - **Model Management**: Navigate to the "Model" section to create models associated with a selected brand.
 - **Item Management**: In the "Item" section, add items by selecting a brand and model.
 
-## Contributing
 
-Contributions are welcome! If you want to improve this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to your forked repository (`git push origin feature-name`).
-6. Create a pull request.
 
 ## License
 
