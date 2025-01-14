@@ -24,7 +24,7 @@ Follow these steps to install and run the project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/inventory-management.git
+    git clone https://github.com/shahinalam10/inventory-management.git
     ```
 
 2. Navigate to the project directory:
