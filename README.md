@@ -21,7 +21,7 @@ This project is a simple Inventory Management System built with Laravel 10. It a
 ## Video Overview
 For a detailed walkthrough of the project, watch the video below:
 
-[**Watch Video Overview**](https://drive.google.com/file/d/13VoH35dzAgNpXvqSUsGjoL-jXXWv-gQV/view?usp=drive_link)
+[**Watch Video Overview**](https://youtu.be/TMcqopHbcy8)
 ## Installation
 
 Follow these steps to install and run the project locally:
